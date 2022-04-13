@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: fantasy;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px  10px  10px black ;
+    border-radius: 20px;
+}
+.note{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
